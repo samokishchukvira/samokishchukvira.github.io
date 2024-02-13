@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 1;
+	box-sizing: border-box;
+	background-color: lavender;
+}
+
+h1 {
+ 	text-align: center;
+  	color: purple;
+
+ }
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td {
+    border: 2px solid #C9A0DC;
+    padding: 8px;
+    text-align: center;
+    background-color: #FFD1DC;
+}
+th {
+    background-color: 	#967BB6;
+}
+h3 { 
+text-align: center;
+}
+
+.important {
+  color: red;
+}
+
+.photo {
+    text-align: center;
+    margin-top: 30px; 
+}
+
+p {
+	margin-top: 15px;
+	text-align: center;
+}
+
+a {
+	text-align: center;
+}
+
+.vpered {
+    text-align: center;
+}
+
+.perukar {
+    text-align: left;
+    margin-top: 30px; 
+}
+
