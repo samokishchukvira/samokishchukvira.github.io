@@ -159,7 +159,7 @@ h1{
 }
 
 .btn {
-	display: block;
+	display: inline-block;
 	width: 200px;
 	height: 58px;
 	border: 1px solid #fff;
